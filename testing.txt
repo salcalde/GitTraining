@@ -1,2 +1,6 @@
 This is some test text.
+<<<<<<< HEAD
 I changed this on master branch.
+=======
+I changed this on second-branch.
+>>>>>>> second-branch
